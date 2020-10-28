@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!-- dperdue-09/15/2019 -->
+
+<head>
+<meta charset="utf-8" />
+<meta name="Description" content="404 Page Not Found" />
+<meta name="Keywords" content="Dickens, Charles Dickens, 404 Page Not Found" />
+<meta name="GENERATOR" content="Dreamweaver" />
+<meta name="author" content="David A. Perdue" /> 
+<meta name="publisher" content="David A. Perdue" /> 
+<meta name="created" content="20190915" /> 
+<meta name="Expires" content="Never" /> 
+<meta name="review" content="20190915" />    
+   
+   <title>The Charles Dickens Page - 404-Page Not Found</title>
+ 
+ <!--Structured Data Markup added 9/15/2019-->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "404-Page Not Found",
+    "description": "Charles Dickens Page 404-Page Not Found",
+	"keywords" : "Dickens, Charles Dickens, 404 Page Not Found",
+	"primaryImageOfPage": "https://www.charlesdickenspage.com/images/dickens-cutout-sepia404.jpg",
+	"author": {
+        "@type": "Person",
+        "name": "David A Perdue"
+		},
+    "publisher": {
+        "@type": "Person",
+        "name": "David A Perdue"
+		},
+	"breadcrumb": "Home > 404-Page Not Found",
+	"mainEntityOfPage": "https://www.charlesdickenspage.com/404.html",
+	"dateCreated": "September 15, 2019",
+	"dateModified": "September 15, 2019",	
+	"headline": "Get back to the 'Best of Times' by starting here...",
+	"url": "https://www.charlesdickenspage.com/404.html"
+	}
+</script>
+
+<link rel="stylesheet" type="text/css" href="dickens-css.css" /> 
+
+<!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.dickens #leftCol { width: 160px; }
+.dickens #rightCol { width: 160px; }
+</style>
+<![endif]--><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.dickens #rightCol, .dickens #leftCol { padding-top: 10px; }
+.dickens #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+
+<!--Google analytics 01/09/12 -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-280333-1']);
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+if (screen.width <=640) {
+document.location="https://m.charlesdickenspage.com/404.html";
+} 
+</script>
+
+<link rel="alternate" media="only screen and (max-width: 640px)"
+ href="https://m.charlesdickenspage.com/404.html">
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+	
+</head>
+
+<body class="dickens">
+
+<img src="images/site-header950.jpg" alt="David Perdue's Charles Dickens Page" width="950" height="25" border="0" usemap="#Map" />
+  <map name="Map" id="Map">
+    <area shape="rect" coords="0,4,235,20" href="index.html" title="Go to The Charles Dickens Page home page" alt="Home Page" />
+    <area shape="rect" coords="795,3,839,19" href="index.html" title="Go to The Charles Dickens Page home page" alt="Go to the Home Page" />
+    <area shape="rect" coords="841,2,888,19" href="dickens-search.html" title="Search The Charles Dickens Page" alt="Search this site" />
+    <area shape="rect" coords="894,2,947,19" href="dickens-site-map.html" title="Go to the Charles Dickens Page sitemap" alt="Site Map" />
+  </map>
+
+<div id="container">
+<a name="top"></a>
+
+<!-- Begin#mainContent -->
+  
+<div id="mainContentLinear">
+ 
+<a href="index.html">Home</a> &gt 404-Page Not Found<br /><br />
+
+<h1>Oops, You're in the wrong place...</h1>
+<div class="box09">
+<img src="images/dickens-cutout-sepia404.jpg" width="100" height="86" alt="Charles Dickens" class="fltlft" /> <h3>Get back to the "Best of Times" by starting here...</h3><br />
+<a href="https://charlesdickenspage.com/dickens-site-map.html"><strong>https://charlesdickenspage.com/dickens-site-map.html</strong></a>
+
+</div>
+  
+<!-- end #singleCol --></div>
+
+<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+    <hr width="97%" size="1" />
+    
+<div class="box15">
+<p style="margin-top: 0; margin-bottom: 0"><strong>Affiliate Links Disclosure</strong><br />
+
+The Charles Dickens Page is a member of affiliate programs at Amazon and Zazzle.  This means that there are links that take users to sites where products that we recommend are offered for sale. If purchases are made on these sites The Charles Dickens Page receives a small commission.</p> 
+</div>
+
+<hr width="97%" size="1" />
+
+<!--footer -->  
+
+    <div id="footer">
+           <img src="images/dickens-sm-logo-footer.jpg" alt="The Charles Dickens Page copyright &copy David A. Perdue" width="106" height="55" class="fltrt" /> 
+           
+        	   
+    	Copyright &copy; 1997-<script>
+<!--
+var year=new Date();
+year=year.getYear();
+if (year<1900) year+=1900;
+document.write(year);
+//-->
+</script> David A. Perdue, All Rights Reserved.<br />
+      	URL: https://www.charlesdickenspage.com/404.html<br />
+      	<a href="index.html" title="Link to The Charles Dickens Home Page">The Charles Dickens Home Page</a><br />
+     	 <a href="faq-email.html" title="Link to contact info">Contact Information</a><br />
+      	<a href="faq-email.html#privacy" title="Link to privacy statement">Privacy Statement</a><br />
+      
+      </div>
+<!-- end #container --></div>
+</body>
+</html>
